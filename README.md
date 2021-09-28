@@ -1,5 +1,6 @@
 # ES6notes
 the notes wrote down when reading the ES6 grammar
+在学习过程中，示例代码有时候比文字更能表达意思，所以示例代码也会记录下来，这些代码块部分是直接复制粘贴原文
 # ES6 语法笔记
 
 
